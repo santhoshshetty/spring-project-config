@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to SoftBank APIs - Prod"
+  message: "Welcome to SoftBank APIs - Production Environment"
   contactDetails:
     name: "Murugan"
     email: "{cipher}fb77c4334c752684b48de126fa672af738d5c9a1f8fddb36fe8381bbc8af6bc78d6ecb3dc64cbcfa6f53dfdfa3926534"
