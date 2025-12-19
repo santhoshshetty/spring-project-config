@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to SoftBank APIs - Prod"
   contactDetails:
     name: "Murugan"
-    email: "ishaan@gmail.com"
+    email: "{cipher}fb77c4334c752684b48de126fa672af738d5c9a1f8fddb36fe8381bbc8af6bc78d6ecb3dc64cbcfa6f53dfdfa3926534"
     onCallSupport:
       - (49) 9876543210
       - (91) 9867542301
