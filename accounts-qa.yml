@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to SoftBank APIs - QA"
+  contactDetails:
+    name: "Ishaan"
+    email: "ishaan@gmail.com"
+    onCallSupport:
+      - (49) 9876543210
+      - (91) 9867542301
